@@ -1,0 +1,41 @@
+{
+  "name": "graphql-firepad-text-operation",
+  "version": "0.0.0",
+  "description": "GraphQL firepap-text-operation json type",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover _mocha ./test && istanbul --text check-coverage --statements 100 --functions 100 --branches 100 --lines 100"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjmehta/graphql-firepad-text-operation.git"
+  },
+  "keywords": [
+    "graphql",
+    "firepad",
+    "text",
+    "operation",
+    "text",
+    "code",
+    "operation",
+    "json",
+    "type"
+  ],
+  "author": "Tejesh Mehta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjmehta/graphql-firepad-text-operation/issues"
+  },
+  "homepage": "https://github.com/tjmehta/graphql-firepad-text-operation#readme",
+  "devDependencies": {
+    "assert-err": "^1.1.0",
+    "chai": "^3.5.0",
+    "graphql": "^0.7.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.0.2"
+  },
+  "dependencies": {
+    "assert-err": "^1.1.0",
+    "validate-firepad-text-operation": "^1.0.0"
+  }
+}
