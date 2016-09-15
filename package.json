@@ -36,6 +36,6 @@
   },
   "dependencies": {
     "assert-err": "^1.1.0",
-    "validate-firepad-text-operation": "^1.0.0"
+    "validate-firepad-text-operation": "^1.0.1"
   }
 }
