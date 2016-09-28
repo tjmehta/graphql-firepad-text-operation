@@ -1,6 +1,6 @@
 {
   "name": "graphql-firepad-text-operation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "GraphQL firepap-text-operation json type",
   "main": "index.js",
   "scripts": {
