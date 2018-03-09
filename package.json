@@ -29,7 +29,7 @@
   "homepage": "https://github.com/tjmehta/graphql-firepad-text-operation#readme",
   "devDependencies": {
     "assert-err": "^1.1.0",
-    "chai": "^3.5.0",
+    "chai": "^4.0.0",
     "graphql": "^0.9.2",
     "istanbul": "^0.4.5",
     "mocha": "^3.0.2"
