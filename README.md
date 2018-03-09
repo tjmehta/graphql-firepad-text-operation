@@ -1,4 +1,4 @@
-# graphql-firepad-text-operation
+# graphql-firepad-text-operation [![Build Status](https://travis-ci.org/tjmehta/graphql-firepad-text-operation.svg?branch=master)](https://travis-ci.org/tjmehta/graphql-firepad-text-operation)
 GraphQL firepad text operation json type
 
 # Installation
